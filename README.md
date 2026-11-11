@@ -10,4 +10,4 @@ iOS Developer · Swift, SwiftUI, UIKit · Ukraine (open to remote)
 Swift · SwiftUI · UIKit · Swift Concurrency · SwiftData · WidgetKit · StoreKit / RevenueCat · Firebase · AWS · Swift Testing
 
 ## 📫 Contact
-dimakruzha.job@gmail.com · [LinkedIn](https://www.linkedin.com/in/dima-kryzhanovsky-53a74b1b9/)
+dimakruzha.job@gmail.com · [LinkedIn](https://www.linkedin.com/in/dima-kryzhanovsky/)
